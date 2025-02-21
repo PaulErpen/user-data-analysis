@@ -1,0 +1,7 @@
+age,gender,education_level,job_field,previous_experience_3D,color_blindness,visually_impaired
+24,female,master,biology,limited experience,no color blindness,no visual impairments
+61,male,master,electrical engineering,limited experience,no color blindness,no visual impairments
+26,female,bachelor,data science,no experience,no color blindness,no visual impairments
+25,male,bachelor,data science,limited experience,no color blindness,no visual impairments
+23,male,high school,software engineering,limited experience,no color blindness,myopic
+27,male,Post-Secondary Education (No Degree),IT,limited experience,no color blindness,myopic
